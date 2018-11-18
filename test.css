@@ -1,0 +1,13 @@
+.app {
+    background-image: url("https://cdn.discordapp.com/attachments/475335262763876353/497940428432080898/742643_-_Arcee_Transformers_Transformers_Animated.jpg") !important;
+    background-size: 1500px 900px !important;
+    background-repeat: no-repeat !important;
+}
+/* Just change the link to whatever picture, including the `s` in `https` */
+
+.callout-backdrop {
+    opacity:0.9 !important;
+    background: url("https://cdn.discordapp.com/attachments/475335262763876353/497940428432080898/742643_-_Arcee_Transformers_Transformers_Animated.jpg") !important;
+    background-size: 1500px 900px !important;
+    background-repeat: no-repeat !important;
+}
